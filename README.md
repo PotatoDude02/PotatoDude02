@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PotatoDude02
-- 👀 I’m interested in video games, architecture, level designs, anything creative.
-- 🌱 I’m currently learning animation & improving my already learnt skills.
+- 👀 My main skillset is within level designs of any sort. 
+- 🌱 I’m currently learning animation & 3D modelling.
 
 <!---
 PotatoDude02/PotatoDude02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
